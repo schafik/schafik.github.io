@@ -14,7 +14,7 @@ Prior to joining UCL faculty, I received my PhD from the [Nurkse Department of I
 
 ## Contact
 
-Email: [s.chafik@ucl.ac.uk]
+email: [s.chafik@ucl.ac.uk]
 
 [s.chafik@ucl.ac.uk]: mailto:s.chafik@ucl.ac.uk
 [Institute for Innovation and Public Purpose]: https://www.ucl.ac.uk/bartlett/public-purpose/ucl-institute-innovation-and-public-purpose
