@@ -4,22 +4,21 @@ output: pdf_document
 permalink: /
 ---
 <br />
-{% include image.html url="images/haggag.png" caption="" width="300" align="right" %}
+{% include image.html url="images/haggag.png" caption="" width="350" align="right" %}
 
-I am an Assistant Professor at the [UCLA Anderson School of Management] and a Faculty Research Fellow at the [National Bureau of Economic Research (NBER)]. I study topics at the intersection of economics and psychology, and my [research] has explored attribution bias in consumer choice and education, the role of defaults in customer tipping behavior, learning by doing by taxi drivers, inaccurate statistical discrimination, racial disparities in voting wait times, and the effects of early-life experiences on voter participation and partisan identity. 
+I am Senior Research Fellow at the [Institute for Innovation and Public Purpose] at University College London. My [research] is inspired by the age-old question and notion of ‘living and doing good’ or السعادة القصوى (*eudaimonia*). I study the pursuit and understanding of public value creation beyond a global-Western paradigm, focusing on purpose-driven indigenous institutions rooted in religious traditions, particularly Islam. 
 
-Prior to joining the UCLA faculty, I was an assistant professor at [Carnegie Mellon University], a postdoctoral fellow with the [Financial Inclusion Program] at Yale University/Innovations for Poverty Action, and received my PhD in economics from the [University of Chicago Booth School of Business] in 2016. See my [CV] for more.
+I explore the role of these institutions in delivering public services to, taking on challenges for, and shaping the business and wider socio-economic environment of their communities. My approach to research is interdisciplinary, combining non-Western public policy and administration, organisational studies, the commons, technology governance, and ethnographic fieldwork.
+
+Prior to joining UCL faculty, I received my PhD from the [Nurkse Department of Innovation and Governance] at Tallinn University of Technology in 2020, and was a Lab Manager of the [Center for Decision Sciences] at Columbia Business School. See my [CV] for more.
 
 ## Contact
 
-Email: [kareem.haggag@anderson.ucla.edu]
+Email: [s.chafik@ucl.ac.uk]
 
-[kareem.haggag@anderson.ucla.edu]: mailto:kareem.haggag@anderson.ucla.edu
-[UCLA Anderson School of Management]: https://www.anderson.ucla.edu/faculty-and-research/behavioral-decision-making/faculty
-[National Bureau of Economic Research (NBER)]: https://www.nber.org/people/kareem_haggag
-[Carnegie Mellon University]: http://www.cmu.edu/dietrich/sds/index.html
-[Financial Inclusion Program]: http://www.poverty-action.org/program-area/financial-inclusion
-[University of Chicago Booth School of Business]: https://www.chicagobooth.edu
-[research]: http://www.kareemhaggag.com/research
-[UCLA Anderson School of Management]: https://www.anderson.ucla.edu/faculty-and-research/behavioral-decision-making
-[CV]: http://www.kareemhaggag.com/f/KareemHaggag_CV.pdf
+[s.chafik@ucl.ac.uk]: mailto:s.chafik@ucl.ac.uk
+[Institute for Innovation and Public Purpose]: https://www.ucl.ac.uk/bartlett/public-purpose/ucl-institute-innovation-and-public-purpose
+[Nurkse Department of Innovation and Governance]: https://taltech.ee/en/nurkse
+[Center for Decision Sciences]: https://business.columbia.edu/cds
+[research]: https://schafik.github.io/research/
+[CV]: https://schafik.github.io/cv/SalahChafik_CV.pdf
