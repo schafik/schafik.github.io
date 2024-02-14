@@ -4,6 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Winter 2022:
+# Spring 2023:
 
-## MGMT 298-25/26: Behavioral Economics
+## MNR5310: Implementing Governance in a Globalized World
