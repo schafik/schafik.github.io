@@ -1,11 +1,11 @@
-title: Kareem Haggag
-description: Assistant Professor at the UCLA Anderson School of Management
-sourcecode: "https://github.com/kareemhaggag/kareemhaggag.github.io"
+title: Salah Chafik
+description: Senior Research Fellow at the Institute for Innovation and Public Purpose, UCL
+sourcecode: "https://github.com/schafik/schafik.github.io"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
-url: "http://kareemhaggag.github.io"     # the base hostname & protocol for your site
+url: "http://schafik.github.io"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
 
 author:
