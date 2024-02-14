@@ -6,16 +6,16 @@ permalink: /research/
 ## Publications
 
    
-* [Inaccurate Statistical Discrimination: An Identification Problem](/f/Inaccurate_Statistical_Discrimination.pdf) <br />
-  (with J. Aislinn Bohren, Alex Imas, & Devin G. Pope)<br />
+  [Islamic public administration and Islamic public value: Towards a research agenda](/f/Inaccurate_Statistical_Discrimination.pdf) <br />
+  (with Wolfgang Drechsler & Rainer Kattel)<br />
   NBER Working Paper #25935<br />
-  Forthcoming at **Review of Economics and Statistics**
+  **Public Policy and Administration**
 
 
    <details><summary> Abstract (+) </summary>
    
    <blockquote>
-   <p align="left"> This paper studies inaccurate beliefs as a source of discrimination. Economists have typically characterized discrimination as stemming from tastes (preference-based) or accurate statistical (belief-based) sources---a valuable distinction for policy design and welfare analysis. However, in many situations individuals may have inaccurate beliefs about how relevant characteristics?e.g. productivity, signals? are correlated with group identity. A review of the empirical discrimination literature in economics reveals that a small minority of papers---fewer than 7%---consider the possibility of such inaccurate statistical discrimination. Using a theoretical framework and an experiment in a labor market setting, we show that not accounting for inaccurate beliefs will lead to a misclassification of discrimination?s source. We then outline three methodologies that either fully or partially identify the three potential sources: varying the amount of information presented to evaluators, eliciting their beliefs, and presenting them with accurate information about the relevant distributions. Importantly, the third method can be used to differentiate whether inaccurate beliefs are due to a lack of information or motivated factors.<br></p> </blockquote>   
+   <p align="left"> This essay explores whether religion has a place in addressing public challenges, par- ticularly in the context of Non-Western Public Administration paradigms such as Confucian, Buddhist, and Islamic. The authors focus on Islam as a case study and highlight the need for real-life cases to build a grounded theory. To this end, the essay documents the authors’ ongoing research on Islamic Public Value. We argue that to understand Public Administration in a global context, it is essential to recognize the limitations of a Western perspective, from which the dichotomy of religious versus secular emerged, and in so doing, consider alternative departure points, i.e. paradigms incorporating religious or semi-religious elements.<br></p> </blockquote>   
    </details><br />
    
    
@@ -31,7 +31,7 @@ permalink: /research/
    </details> <br />
    
      
- * [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) <br />
+  [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) <br />
   (with M. Keith Chen, Devin G. Pope, & Ryne Rohla)<br />
   NBER Working Paper #26487<br />
   **Review of Economics and Statistics**, 104(6), 1341-1350. 2022.
@@ -48,7 +48,7 @@ permalink: /research/
 
 
 
-* [The Long-Run Effects of School Racial Diversity on Political Identity](/f/School_Diversity_Partisanship.pdf) <br>
+  [The Long-Run Effects of School Racial Diversity on Political Identity](/f/School_Diversity_Partisanship.pdf) <br>
   (with Stephen B. Billings & Eric Chyn)<br />
   NBER Working Paper #27302<br />
   **American Economic Review: Insights**, 3(3), 267-284. 2021. [*Lead Article*]
@@ -63,7 +63,7 @@ permalink: /research/
    [[Online Appendix](/f/School_Diversity_Partisanship_onlineappendix.pdf)]<br />
 
 
-* [Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf)<br />
+  [Attribution Bias in Major Decisions: Evidence from the United States Military Academy](/f/Attribution_Bias_USMA.pdf)<br />
   (with Richard W. Patterson, Nolan G. Pope, & Aaron Feudo)<br />
   **Journal of Public Economics**, Volume 200, August 2021, 104445
 
