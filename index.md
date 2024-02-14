@@ -4,7 +4,7 @@ output: pdf_document
 permalink: /
 ---
 <br />
-{% include image.html url="images/chafik.png" caption="" width="350" align="right" %}
+{% include image.html url="images/chafik.png" caption="" width="400" height="500" align="right" %}
 
 I am Senior Research Fellow at the [Institute for Innovation and Public Purpose] at University College London. My [research] is inspired by the age-old question and notion of ‘living and doing good’ or السعادة القصوى (*eudaimonia*). I study the pursuit and understanding of public value creation beyond a global-Western paradigm, focusing on purpose-driven indigenous institutions rooted in religious traditions, particularly Islam. 
 
@@ -21,4 +21,4 @@ email: [s.chafik@ucl.ac.uk]
 [Nurkse Department of Innovation and Governance]: https://taltech.ee/en/nurkse
 [Center for Decision Sciences]: https://business.columbia.edu/cds
 [research]: https://schafik.github.io/research/
-[CV]: https://schafik.github.io/cv/SalahChafik_CV.pdf
+[CV]: https://schafik.github.io/f/SalahChafik_CV.pdf
