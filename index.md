@@ -4,7 +4,7 @@ output: pdf_document
 permalink: /
 ---
 <br />
-{% include image.html url="images/chafik.png" caption="" height="400" align="right" %}
+{% include image.html url="images/chafik.png" caption="" width="400" align="right" %}
 
 I am Senior Research Fellow at the [Institute for Innovation and Public Purpose] at University College London. My [research] is inspired by the age-old question and notion of ‘living and doing good’ (السعادة القصوى or *eudaimonia*). I study the pursuit and understanding of public value creation beyond a global-Western paradigm, focusing on purpose-driven indigenous institutions rooted in religious traditions. 
 
