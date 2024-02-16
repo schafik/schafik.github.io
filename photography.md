@@ -4,6 +4,6 @@ title: Teaching
 permalink: /photography/
 ---
 
-# Photography:
+## Photography
 
 This page features photography from my field reasearch.
