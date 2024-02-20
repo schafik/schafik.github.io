@@ -10,7 +10,7 @@ I am a Senior Research Fellow at the [Institute for Innovation and Public Purpos
 
 In particular, I explore the role of these institutions in delivering public services to, taking on societal challenges for, and shaping the business and wider socio-economic environment of their communities. My approach to research is interdisciplinary, combining organisational theory, comparative governance, administration, and development, the commons, and innovation policy. I have a strong interest in qualitative, specifically field-based research methods (gradually adding my [fieldwork photos] to this site). 
 
-Prior to joining UCL faculty, I received my Ph.D. in Public Administration and M.A. in Technology Governance from the [Nurkse Department of Innovation and Governance] at Tallinn University of Technology, and my B.A. in International Relations and Near Eastern Languages and Civilizations from the University of Pennsylvania. I was also previously the Lab Manager of the [Center for Decision Sciences] at Columbia Business School. See my [CV] for more. 
+Prior to joining UCL, I received my Ph.D. in Public Administration and M.A. in Technology Governance from the [Nurkse Department of Innovation and Governance] at Tallinn University of Technology, and my B.A. in International Relations and Near Eastern Languages and Civilizations from the University of Pennsylvania. I was also previously the Lab Manager of the [Center for Decision Sciences] at Columbia Business School. See my [CV] for more. 
 
 Thanks for visiting!
 
