@@ -8,9 +8,9 @@ permalink: /
 
 I am a Senior Research Fellow at the [Institute for Innovation and Public Purpose], University College London. My [research] is inspired by the age-old question and notion of ‘living and doing good’ (*eudaimonia*), focusing on purpose-driven institutions rooted in religious traditions. 
 
-In particular, I study the role of these institutions in delivering public services to, taking on societal challenges for, and shaping the business and wider socio-economic environment of their communities. My approach to research is interdisciplinary, combining organisational theory, comparative administration, the commons, innovation policy, and (uneven) development. I have a strong interest in qualitative, specifically field-based research methods (currently organizing my [fieldwork photos]). 
+In particular, I study the role of these institutions in delivering public services to, taking on societal challenges for, and shaping the business and wider socio-economic environment of their communities. My approach to research is interdisciplinary, combining organisational theory, comparative administration, the commons, innovation policy, and (uneven) development. I have a strong interest in qualitative, specifically field-based research methods (currently organising my [fieldwork photos]). 
 
-I hold a Ph.D. in Public Administration and M.A. in Technology Governance from the [Nurkse Department of Innovation and Governance] at Tallinn University of Technology, and B.A. in International Relations and Near Eastern Languages and Civilizations from the University of Pennsylvania. Prior to joining UCL, I was the Lab Manager of the [Center for Decision Sciences] at Columbia Business School. My CV is available [here]. 
+I hold a Ph.D. in Public Administration and M.A. in Technology Governance from the [Nurkse Department of Innovation and Governance] at Tallinn University of Technology, and a B.A. in International Relations and Near Eastern Languages and Civilizations from the University of Pennsylvania. Prior to joining UCL, I was Lab Manager of the [Center for Decision Sciences] at Columbia Business School. See [here] for my CV. 
 
 Thanks for visiting!
 
