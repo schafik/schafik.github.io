@@ -6,9 +6,18 @@ permalink: /research/
 ## Publications
 
 ### 2023
-  [Islamic public administration and Islamic public value: Towards a research agenda](/f/Inaccurate_Statistical_Discrimination.pdf) <br />
+
+  [Plan Bee: The Case of an Islamic Honey Cooperative in Morocco](/f/Plan_Bee.pdf)<br>
+  **Administrative Culture**
+
+
+   <details><summary> Abstract (+) </summary>
+   
+   <blockquote><p align="left"> Taddaret Inzerki is an indigenous honey cooperative (i.e. apiary) in rural Morocco that has operated autonomously for centuries. To understand the devolved status of the apiary, and accordingly, explore the often overlooked field of (non-Western) traditional community-based administrative systems and practices, this essay first provides a brief summary of devolution theory (based on Althusius’ Politica) and the track record of similar policies in the context of natural resource management. The case of Taddaret Inzerki, which is the core contribution of the essay, is then presented along the lines of a Geertzian thick description, revealing both the apiary’s historical foundation and its three enduring institutional goals stemming from the rules of the commons: ensuring the welfare of bees, properly treating fellow beekeepers, and fulfilling Islamic requisites. The result for the villagers upholding their sacred craft of Islamic beekeeping is that they are able to generate a reliable livelihood and preserve their shared natural resource commons. However, this essay argues that this administrative arrangement also proves beneficial at the national and even global level, and concludes by suggesting potential avenues of future research.<br></p> </blockquote>   
+   </details> <br />
+   
+  [Islamic public administration and Islamic public value: Towards a research agenda](/f/IPV_research_agenda.pdf) <br />
   (with Wolfgang Drechsler & Rainer Kattel)<br />
-  NBER Working Paper #25935<br />
   **Public Policy and Administration**
 
 
@@ -17,18 +26,6 @@ permalink: /research/
    <blockquote>
    <p align="left"> This essay explores whether religion has a place in addressing public challenges, par- ticularly in the context of Non-Western Public Administration paradigms such as Confucian, Buddhist, and Islamic. The authors focus on Islam as a case study and highlight the need for real-life cases to build a grounded theory. To this end, the essay documents the authors’ ongoing research on Islamic Public Value. We argue that to understand Public Administration in a global context, it is essential to recognize the limitations of a Western perspective, from which the dichotomy of religious versus secular emerged, and in so doing, consider alternative departure points, i.e. paradigms incorporating religious or semi-religious elements.<br></p> </blockquote>   
    </details><br />
-   
-   
-  [Moved to Vote: The Long-Run Effects of Neighborhoods on Political Participation](/f/Moved_to_Vote.pdf)<br>
-  (with Eric Chyn)<br />
-  NBER Working Paper #26515<br />
-  Forthcoming at **Review of Economics and Statistics**
-
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote><p align="left"> How does one's childhood neighborhood shape political engagement later in life? We study voting rates of children who were displaced by public housing demolitions and moved to higher opportunity areas using housing vouchers. Those displaced during childhood had 11% (2pp) higher participation in the 2016 Presidential election and were 10% (2.9pp) more likely to vote in any general election. We argue that the results are unlikely to be driven by changes in incarceration or parental outcomes, but rather by political socialization or improvements in education and earnings. These results suggest that housing assistance programs may reduce inequality in political participation.<br></p> </blockquote>   
-   </details> <br />
    
      
   [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) <br />
