@@ -21,7 +21,7 @@ permalink: /research/
   <details><summary> Abstract (+) </summary>
    
    <blockquote><p align="left"> Taddaret Inzerki is an indigenous honey cooperative (i.e. apiary) in rural Morocco that has operated autonomously for centuries. To understand the devolved status of the apiary, and accordingly, explore the often overlooked field of (non-Western) traditional community-based administrative systems and practices, this essay first provides a brief summary of devolution theory (based on Althusius’ Politica) and the track record of similar policies in the context of natural resource management. The case of Taddaret Inzerki, which is the core contribution of the essay, is then presented along the lines of a Geertzian thick description, revealing both the apiary’s historical foundation and its three enduring institutional goals stemming from the rules of the commons: ensuring the welfare of bees, properly treating fellow beekeepers, and fulfilling Islamic requisites. The result for the villagers upholding their sacred craft of Islamic beekeeping is that they are able to generate a reliable livelihood and preserve their shared natural resource commons. However, this essay argues that this administrative arrangement also proves beneficial at the national and even global level, and concludes by suggesting potential avenues of future research.<br></p> </blockquote>   
-   </details>
+   </details><br />
 
    
   Geography, uneven development and population density: attempting a non-ethnocentric approach to development <br />
@@ -51,7 +51,7 @@ permalink: /research/
    
    <blockquote>
    <p align="left"> The 2020 international protests addressing structural racism and colonial legacies have also questioned Western ascendancy on defining (good) governance. Non-Western traditional forms of governance surviving today, despite not receiving much academic attention, pose an obvious alternative. This study analyses key indigenous institutions in Morocco known as *zawāyā*, and in doing so, fills some of the lacunae on Islamic-African public administration. Drawing from novel data collected via ethnographic fieldwork across three domains of public service provision, the authors, apparently for the first time in such a context, present a public administration that is functional in its operation, delivering on its goals, and on both counts markedly different from the global-Western mainstream. Our results uncover a public administration that (1) coexists with a larger state, (2) delivers coproduced services, and (3) merits recognition.<br></p> </blockquote>   
-   </details>
+   </details><br />
 
 [Islamic Public Administration in Sunlight and Shadow: Theory and Practice](/f/Drechsler and Chafik - Theory and Practice.pdf)<br />
   (with Wolfgang Drechsler)<br />
