@@ -7,8 +7,8 @@ permalink: /research/
 
 ### 2023
 
-  [Plan Bee: The Case of an Islamic Honey Cooperative in Morocco](/f/Chafik - Plan Bee.pdf)<br>
-  *Administrative Culture*
+  [Plan Bee: The Case of an Islamic Honey Cooperative in Morocco](/f/`Chafik - Plan Bee.pdf`)<br>
+  *Administrative Culture*, 23 (1), 4-26.
 
 
    <details><summary> Abstract (+) </summary>
@@ -28,11 +28,9 @@ permalink: /research/
    </details><br />
    
      
-  [Racial Disparities in Voting Wait Times: Evidence from Smartphone Data](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) <br />
-  (with M. Keith Chen, Devin G. Pope, & Ryne Rohla)<br />
-  NBER Working Paper #26487<br />
-  **Review of Economics and Statistics**, 104(6), 1341-1350. 2022.
-
+  [Geography, uneven development and population density: attempting a non-ethnocentric approach to development](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) <br />
+  (with Erik Reinert and Xuan Zhao)<br />
+  In **A Modern Guide to Uneven Economic Development** <br />
 
    <details><summary> Abstract (+) </summary>
    
