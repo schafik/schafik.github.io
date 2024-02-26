@@ -27,6 +27,7 @@ permalink: /research/
   [Geography, uneven development and population density: attempting a non-ethnocentric approach to development](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) <br />
   (with Erik Reinert and Xuan Zhao)<br />
   in **A Modern Guide to Uneven Economic Development** <br />
+  <br />
 
    
   [Islamic public administration and Islamic public value: Towards a research agenda](/f/Drechsler et al – IPA and IPV PPA.pdf) <br />
@@ -40,33 +41,37 @@ permalink: /research/
    <p align="left"> This essay explores whether religion has a place in addressing public challenges, particularly in the context of Non-Western Public Administration paradigms such as Confucian, Buddhist, and Islamic. The authors focus on Islam as a case study and highlight the need for real-life cases to build a grounded theory. To this end, the essay documents the authors’ ongoing research on Islamic Public Value. We argue that to understand Public Administration in a global context, it is essential to recognize the limitations of a Western perspective, from which the dichotomy of religious versus secular emerged, and in so doing, consider alternative departure points, i.e. paradigms incorporating religious or semi-religious elements.<br></p> </blockquote>   
    </details><br />
 
+### 2022
+
+  [In the Semi‐Shadow of the Global West: Moroccan zawāyā as Good Public Administration](/f/Drechsler et al – IPA and IPV PPA.pdf) <br />
+  (with Wolfgang Drechsler)<br />
+  *Public Administration Review*, 82 (4): 747-755.<br />
+  Received Best Paper Award from the School of Business and Governance, Tallinn University of Technology
+
+<details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> The 2020 international protests addressing structural racism and colonial legacies have also questioned Western ascendancy on defining (good) governance. Non-Western traditional forms of governance surviving today, despite not receiving much academic attention, pose an obvious alternative. This study analyses key indigenous institutions in Morocco known as *zawāyā*, and in doing so, fills some of the lacunae on Islamic-African public administration. Drawing from novel data collected via ethnographic fieldwork across three domains of public service provision, the authors, apparently for the first time in such a context, present a public administration that is functional in its operation, delivering on its goals, and on both counts markedly different from the global-Western mainstream. Our results uncover a public administration that (1) coexists with a larger state, (2) delivers coproduced services, and (3) merits recognition..<br></p> </blockquote>   
+   </details><br />
+
    
 ## In Progress
-   
+
   **Less is More: Cases of sacred craft from West Africa**<br />
   (with Esther Salvi)<br />
   Submitted to *Academy of Management Discoveries*<br />
 
+  **Robustness in the Sacred Commons: A critical appreciation of Ostrom**<br />
+  (with Christos Giotitsas and Alex Pazaitis)<br />
+  Target: *Journal of Business Ethics*<br />
 
-* [The Effects of Racial Segregation on Intergenerational Mobility: Evidence from Historical Railroad Placement](/f/Segregation_Mobility.pdf) (February 2024)<br />
-  (with Eric Chyn and Bryan Stuart)<br />
-  NBER Working Paper #30563<br />
+  **Towards a responsible innovation policy**<br />
+  Target: *Organization Studies*<br />
 
-
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote>
-   <p align="left"> This paper provides new evidence on the causal impacts of citywide racial segregation on intergenerational mobility. We use an instrumental variable approach that relies on plausibly exogenous variation in segregation due to the arrangement of railroad tracks in the nineteenth century. Our analysis finds that higher segregation reduces upward mobility for Black children from households across the income distribution and White children from low-income households. Moreover, segregation lowers academic achievement while increasing incarceration and teenage birth rates. An analysis of mechanisms shows that segregation reduces government spending, weakens support for anti-poverty policies, and increases racially conservative attitudes among White residents.<br></p> </blockquote>   
-   </details> <br />
-
-   
-* [The Value of a Higher ACT Exam Score](/f/ACT_Value.pdf) (September 2022)<br />
-  (with Emily Leslie, Devin Pope, and Nolan Pope)<br />
-  Revise & Resubmit at **Journal of Human Resources** <br />
+  **Leadership and management of indigenous cooperative institutions: A synthesis of cases from the Islamic context**
+  (with Rainer Kattel)<br />
+  Target: *Academy of Management Review*
 
 
-   <details><summary> Abstract (+) </summary>
-   
-   <blockquote>
-   <p align="left"> Entrance exams are an integral aspect of the college admissions process. We use rounding in ACT composite exam scores to identify the causal effect of receiving a higher score. Using data for over 3 million test takers, we estimate that *randomly* receiving one extra point on the ACT leads to a 0.44 percentage point increase in the probability of attending a 4-year college. Our results have implications for the importance of entrance exams in the admissions process, the value of test preparation and retaking, and the inequities that can be created by unequal access to test prep and resources.<br></p> </blockquote>   
-   </details> <br />
+
+
