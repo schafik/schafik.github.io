@@ -7,8 +7,8 @@ permalink: /research/
 
 ### 2023
 
-  [Plan Bee: The Case of an Islamic Honey Cooperative in Morocco](/f/Plan_Bee.pdf)<br>
-  **Administrative Culture**
+  [Plan Bee: The Case of an Islamic Honey Cooperative in Morocco](/f/Chafik - Plan Bee.pdf)<br>
+  *Administrative Culture*
 
 
    <details><summary> Abstract (+) </summary>
