@@ -63,7 +63,13 @@ permalink: /research/
    <blockquote>
    <p align="left"> The combination of theoretical principles and centuries-old, yet still functional, practices and institutions that together form the Islamic paradigm of public administration (PA) have customarily been absent from both academic literature and PA reform policies, not least in the NISPAcee region. With, e. g., the arrival of Peter’s *Administrative Traditions* last year, however, Islamic PA has now been positioned within the mainstream, that is, recognized as a legitimate, contextually relevant alternative to the global-Western paradigm. Accordingly, this article aims to further delineate the Islamic PA tradition by discussing its positionality and significance within Non-Western PA, surveying its normative principles, exploring a set of contemporary case studies in Turkey, Uzbekistan, and Morocco, and concluding with a broader reflection on the importance of contextuality and heterogeneity for good PA.<br></p> </blockquote>   
    </details><br />
-   
+
+### 2017
+[In the Semi‐Shadow of the Global West: Moroccan zawāyā as Good Public Administration](/f/Drechsler and Chafik - Theory and Practice.pdf)<br />
+  (with Jon Jachimowicz, S. Munrat, J. Prabhu and E. Weber)<br />
+  *Proceedings of the National Academy of Sciences*, 114 (21), 5401-5406.<br />
+
+
 ## In Progress
 
   **Less is More: Cases of sacred craft from West Africa**<br />
