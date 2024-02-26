@@ -8,8 +8,8 @@ permalink: /research/
 ### 2024
 
   **Islamic Public Value: Theory & Praxis of Indigenous Cooperative Institutions** <br>
-  forthcoming Q4, *Edward Elgar Publishing* <br />
-
+  forthcoming book with Edward Elgar Publishing <br>
+  (with Wolfgang Drechsler and Rainer Kattel)<br />
 
 ### 2023
 
@@ -25,7 +25,7 @@ permalink: /research/
    
   [Geography, uneven development and population density: attempting a non-ethnocentric approach to development](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) <br />
   (with Erik Reinert and Xuan Zhao)<br />
-  In **A Modern Guide to Uneven Economic Development** <br />
+  in **A Modern Guide to Uneven Economic Development** <br />
 
    
   [Islamic public administration and Islamic public value: Towards a research agenda](/f/Drechsler et al – IPA and IPV PPA.pdf) <br />
@@ -36,13 +36,13 @@ permalink: /research/
    <details><summary> Abstract (+) </summary>
    
    <blockquote>
-   <p align="left"> This essay explores whether religion has a place in addressing public challenges, par- ticularly in the context of Non-Western Public Administration paradigms such as Confucian, Buddhist, and Islamic. The authors focus on Islam as a case study and highlight the need for real-life cases to build a grounded theory. To this end, the essay documents the authors’ ongoing research on Islamic Public Value. We argue that to understand Public Administration in a global context, it is essential to recognize the limitations of a Western perspective, from which the dichotomy of religious versus secular emerged, and in so doing, consider alternative departure points, i.e. paradigms incorporating religious or semi-religious elements.<br></p> </blockquote>   
+   <p align="left"> This essay explores whether religion has a place in addressing public challenges, particularly in the context of Non-Western Public Administration paradigms such as Confucian, Buddhist, and Islamic. The authors focus on Islam as a case study and highlight the need for real-life cases to build a grounded theory. To this end, the essay documents the authors’ ongoing research on Islamic Public Value. We argue that to understand Public Administration in a global context, it is essential to recognize the limitations of a Western perspective, from which the dichotomy of religious versus secular emerged, and in so doing, consider alternative departure points, i.e. paradigms incorporating religious or semi-religious elements.<br></p> </blockquote>   
    </details><br />
 
    
 ## In Progress
    
-* **Less is More: Cases of sacred craft from West Africa**<br />
+  **Less is More: Cases of sacred craft from West Africa**<br />
   (with Esther Salvi)<br />
   Submitted to *Academy of Management Discoveries*<br />
 
