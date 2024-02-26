@@ -16,8 +16,8 @@ Thanks for visiting!
 
 ## Contact
 
-email: s.chafik at ucl.ac.uk
-[UCL faculty webpage]
+email: s.chafik at ucl.ac.uk <br>
+[UCL faculty webpage] <br>
 [Google Scholar] 
 
 [Institute for Innovation and Public Purpose]: https://www.ucl.ac.uk/bartlett/public-purpose/ucl-institute-innovation-and-public-purpose
