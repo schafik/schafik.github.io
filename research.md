@@ -43,7 +43,7 @@ permalink: /research/
 
 ### 2022
 
-  [In the Semi‐Shadow of the Global West: Moroccan zawāyā as Good Public Administration](/f/Chafik and Drechsler - Moroccan zawaya as Good Public Administration.pdf) <br />
+  [In the Semi‐Shadow of the Global West: Moroccan zawāyā as Good Public Administration](/f/Chafik and Drechsler - Moroccan zawaya as Good Public Administration.pdf)<br />
   (with Wolfgang Drechsler)<br />
   *Public Administration Review*, 82 (4): 747-755.<br />
   Received Best Paper Award from the School of Business and Governance, Tallinn University of Technology
@@ -51,9 +51,18 @@ permalink: /research/
 <details><summary> Abstract (+) </summary>
    
    <blockquote>
-   <p align="left"> The 2020 international protests addressing structural racism and colonial legacies have also questioned Western ascendancy on defining (good) governance. Non-Western traditional forms of governance surviving today, despite not receiving much academic attention, pose an obvious alternative. This study analyses key indigenous institutions in Morocco known as *zawāyā*, and in doing so, fills some of the lacunae on Islamic-African public administration. Drawing from novel data collected via ethnographic fieldwork across three domains of public service provision, the authors, apparently for the first time in such a context, present a public administration that is functional in its operation, delivering on its goals, and on both counts markedly different from the global-Western mainstream. Our results uncover a public administration that (1) coexists with a larger state, (2) delivers coproduced services, and (3) merits recognition..<br></p> </blockquote>   
+   <p align="left"> The 2020 international protests addressing structural racism and colonial legacies have also questioned Western ascendancy on defining (good) governance. Non-Western traditional forms of governance surviving today, despite not receiving much academic attention, pose an obvious alternative. This study analyses key indigenous institutions in Morocco known as *zawāyā*, and in doing so, fills some of the lacunae on Islamic-African public administration. Drawing from novel data collected via ethnographic fieldwork across three domains of public service provision, the authors, apparently for the first time in such a context, present a public administration that is functional in its operation, delivering on its goals, and on both counts markedly different from the global-Western mainstream. Our results uncover a public administration that (1) coexists with a larger state, (2) delivers coproduced services, and (3) merits recognition.<br></p> </blockquote>   
    </details><br />
 
+[In the Semi‐Shadow of the Global West: Moroccan zawāyā as Good Public Administration](/f/Drechsler and Chafik - Theory and Practice.pdf)<br />
+  (with Wolfgang Drechsler)<br />
+  *Journal of Public Administration and Policy*, 65 (4): 919-928.<br />
+
+<details><summary> Abstract (+) </summary>
+   
+   <blockquote>
+   <p align="left"> The combination of theoretical principles and centuries-old, yet still functional, practices and institutions that together form the Islamic paradigm of public administration (PA) have customarily been absent from both academic literature and PA reform policies, not least in the NISPAcee region. With, e. g., the arrival of Peter’s *Administrative Traditions* last year, however, Islamic PA has now been positioned within the mainstream, that is, recognized as a legitimate, contextually relevant alternative to the global-Western paradigm. Accordingly, this article aims to further delineate the Islamic PA tradition by discussing its positionality and significance within Non-Western PA, surveying its normative principles, exploring a set of contemporary case studies in Turkey, Uzbekistan, and Morocco, and concluding with a broader reflection on the importance of contextuality and heterogeneity for good PA.<br></p> </blockquote>   
+   </details><br />
    
 ## In Progress
 
