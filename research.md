@@ -43,7 +43,7 @@ permalink: /research/
 
 ### 2022
 
-  [In the Semi‐Shadow of the Global West: Moroccan zawāyā as Good Public Administration](/f/Drechsler et al – IPA and IPV PPA.pdf) <br />
+  [In the Semi‐Shadow of the Global West: Moroccan zawāyā as Good Public Administration](/f/Chafik and Drechsler - Moroccan zawaya as Good Public Administration.pdf) <br />
   (with Wolfgang Drechsler)<br />
   *Public Administration Review*, 82 (4): 747-755.<br />
   Received Best Paper Award from the School of Business and Governance, Tallinn University of Technology
