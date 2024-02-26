@@ -8,8 +8,9 @@ permalink: /research/
 ### 2024
 
   **Islamic Public Value: Theory & Praxis of Indigenous Cooperative Institutions** <br>
-  forthcoming book with Edward Elgar Publishing <br>
-  (with Wolfgang Drechsler and Rainer Kattel)<br />
+  (with Wolfgang Drechsler and Rainer Kattel)<br>
+  forthcoming book with Edward Elgar Publishing <br />
+  
 
 ### 2023
 
