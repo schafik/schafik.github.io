@@ -16,12 +16,15 @@ Thanks for visiting!
 
 ## Contact
 
-email: [s.chafik@ucl.ac.uk]
+email: s.chafik at ucl.ac.uk
+[UCL faculty webpage]
+[Google Scholar] 
 
-[s.chafik@ucl.ac.uk]: mailto:s.chafik@ucl.ac.uk
 [Institute for Innovation and Public Purpose]: https://www.ucl.ac.uk/bartlett/public-purpose/ucl-institute-innovation-and-public-purpose
 [Nurkse Department of Innovation and Governance]: https://taltech.ee/en/nurkse
 [Center for Decision Sciences]: https://business.columbia.edu/cds
 [research]: https://schafik.github.io/research/
 [here]: https://schafik.github.io/f/SalahChafik_CV.pdf
 [fieldwork photos]: https://schafik.github.io/photography/
+[UCL faculty webpage]: https://www.ucl.ac.uk/bartlett/public-purpose/salah-chafik
+[Google Scholar]: https://scholar.google.com/citations?hl=en&user=hoNMx7wAAAAJ
