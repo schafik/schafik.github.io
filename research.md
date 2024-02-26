@@ -83,7 +83,7 @@ permalink: /research/
   **Towards a responsible innovation policy**<br />
   Target: *Organization Studies*<br />
 
-  **Leadership and management of indigenous cooperative institutions: A synthesis of cases from the Islamic context**
+  **Leadership and management of indigenous cooperative institutions: A synthesis of cases from the Islamic context**<br />
   (with Rainer Kattel)<br />
   Target: *Academy of Management Review*
 
