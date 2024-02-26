@@ -24,9 +24,9 @@ permalink: /research/
    </details> <br />
 
    
-  [Geography, uneven development and population density: attempting a non-ethnocentric approach to development](/f/Racial_Disparities_in_Voting_Wait_Times.pdf) <br />
+  Geography, uneven development and population density: attempting a non-ethnocentric approach to development <br />
   (with Erik Reinert and Xuan Zhao)<br />
-  in **A Modern Guide to Uneven Economic Development** <br />
+  in [A Modern Guide to Uneven Economic Development](https://www.e-elgar.com/shop/gbp/a-modern-guide-to-uneven-economic-development-9781788976534.html) <br />
   <br />
 
    
@@ -39,7 +39,7 @@ permalink: /research/
    
    <blockquote>
    <p align="left"> This essay explores whether religion has a place in addressing public challenges, particularly in the context of Non-Western Public Administration paradigms such as Confucian, Buddhist, and Islamic. The authors focus on Islam as a case study and highlight the need for real-life cases to build a grounded theory. To this end, the essay documents the authors’ ongoing research on Islamic Public Value. We argue that to understand Public Administration in a global context, it is essential to recognize the limitations of a Western perspective, from which the dichotomy of religious versus secular emerged, and in so doing, consider alternative departure points, i.e. paradigms incorporating religious or semi-religious elements.<br></p> </blockquote>   
-   </details><br />
+   </details>
 
 ### 2022
 
