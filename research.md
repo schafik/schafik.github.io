@@ -26,7 +26,7 @@ permalink: /research/
    
   Geography, uneven development and population density: attempting a non-ethnocentric approach to development <br />
   (with Erik Reinert and Xuan Zhao)<br />
-  in [A Modern Guide to Uneven Economic Development](https://www.e-elgar.com/shop/gbp/a-modern-guide-to-uneven-economic-development-9781788976534.html) <br />
+  in [A Modern Guide to Uneven Economic Development](https://www.e-elgar.com/shop/gbp/a-modern-guide-to-uneven-economic-development-9781788976534.html) <br /><br />
 
    
   [Islamic public administration and Islamic public value: Towards a research agenda](/f/Drechsler et al – IPA and IPV PPA.pdf) <br />
