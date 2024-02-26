@@ -18,7 +18,7 @@ permalink: /research/
   *Administrative Culture*, 23 (1), 4-26.
 
 
-  &nbsp; <details><summary> Abstract (+) </summary>
+  <details><summary> Abstract (+) </summary>
    
    <blockquote><p align="left"> Taddaret Inzerki is an indigenous honey cooperative (i.e. apiary) in rural Morocco that has operated autonomously for centuries. To understand the devolved status of the apiary, and accordingly, explore the often overlooked field of (non-Western) traditional community-based administrative systems and practices, this essay first provides a brief summary of devolution theory (based on Althusius’ Politica) and the track record of similar policies in the context of natural resource management. The case of Taddaret Inzerki, which is the core contribution of the essay, is then presented along the lines of a Geertzian thick description, revealing both the apiary’s historical foundation and its three enduring institutional goals stemming from the rules of the commons: ensuring the welfare of bees, properly treating fellow beekeepers, and fulfilling Islamic requisites. The result for the villagers upholding their sacred craft of Islamic beekeeping is that they are able to generate a reliable livelihood and preserve their shared natural resource commons. However, this essay argues that this administrative arrangement also proves beneficial at the national and even global level, and concludes by suggesting potential avenues of future research.<br></p> </blockquote>   
    </details> <br />
