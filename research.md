@@ -30,7 +30,7 @@ permalink: /research/
 
    
   [Islamic public administration and Islamic public value: Towards a research agenda](/f/Drechsler et al – IPA and IPV PPA.pdf) <br />
-  (with Wolfgang Drechsler & Rainer Kattel)<br />
+  (with Wolfgang Drechsler and Rainer Kattel)<br />
   *Public Policy and Administration*, OnlineFirst.
 
 
