@@ -65,7 +65,7 @@ permalink: /research/
    </details><br />
 
 ### 2017
-[In the Semi‐Shadow of the Global West: Moroccan zawāyā as Good Public Administration](/f/Drechsler and Chafik - Theory and Practice.pdf)<br />
+  Community trust reduces myopic decisions of low-income individuals<br />
   (with Jon Jachimowicz, S. Munrat, J. Prabhu and E. Weber)<br />
   *Proceedings of the National Academy of Sciences*, 114 (21), 5401-5406.<br />
 
