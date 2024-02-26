@@ -6,4 +6,4 @@ permalink: /photography/
 
 ## Photography
 
-This page features photography from my field reasearch.
+This page will shortly feature photography from my past and ongoing field reasearch.
