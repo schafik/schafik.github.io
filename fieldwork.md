@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Photography
+title: Fieldwork
 support: [jquery, gallery]
 ---
 
