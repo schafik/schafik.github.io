@@ -1,24 +1,20 @@
 picture_path: images/morocco
 preview:
-  filename: Lichtfestival-0058
-  original: Lichtfestival-0058-6000x4000.jpg
-  sizes:
-  - Lichtfestival-0058-2121x1414.jpg
-  - Lichtfestival-0058-2999x1999.jpg
-  - Lichtfestival-0058-4242x2828.jpg
-  thumbnail: Lichtfestival-0058-thumbnail.jpg
-  title: Mageleinstraat
-  caption: Our House Ghent by THEM Sculptures
+  filename: zilejshadow
+  original: zilejshadow-1836x3264.jpg
+  thumbnail: zilejshadow-thumbnail.jpg
+  title: Mid-afternoon sunshine in the zawiya
+  caption: tall one part I
 pictures:
-- filename: Lichtfestival-0012
-  original: Lichtfestival-0012-4000x6000.jpg
+- filename: yoooo
+  original: -4000x6000.jpg
   sizes:
-  - Lichtfestival-0012-1414x2121.jpg
-  - Lichtfestival-0012-1999x2999.jpg
-  - Lichtfestival-0012-2828x4242.jpg
-  thumbnail: Lichtfestival-0012-thumbnail.jpg
-  title: Boekentoren
-  caption: Re-Construct/"Den djoef" by I-Illusions
+  - -1414x2121.jpg
+  - -1999x2999.jpg
+  - -2828x4242.jpg
+  thumbnail: -thumbnail.jpg
+  title: yooooooooo
+  caption: tall one part II
 - filename: Lichtfestival-0003
   original: Lichtfestival-0003-6000x4000.jpg
   sizes:
