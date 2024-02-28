@@ -42,7 +42,7 @@ hr {
 // Images
 img {
     max-width: 100%;
-    padding: 5px;
+    padding: 15px;
     margin: auto auto;
     vertical-align: middle;
 }
@@ -62,7 +62,7 @@ ul, ol {
 }
 
 li {
-    > ul,
+    > ul { list-style: none; },
     > ol {
          margin-bottom: 0;
     }
