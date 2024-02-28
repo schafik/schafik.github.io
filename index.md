@@ -25,6 +25,6 @@ email: s.chafik at ucl.ac.uk <br>
 [Center for Decision Sciences]: https://business.columbia.edu/cds
 [research]: https://schafik.github.io/research/
 [here]: https://schafik.github.io/f/SalahChafik_CV.pdf
-[fieldwork photos]: https://schafik.github.io/photography/
+[fieldwork photos]: https://schafik.github.io/fieldwork/
 [UCL faculty webpage]: https://www.ucl.ac.uk/bartlett/public-purpose/salah-chafik
 [Google Scholar]: https://scholar.google.com/citations?hl=en&user=hoNMx7wAAAAJ
