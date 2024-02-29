@@ -57,8 +57,7 @@ figcaption {
 }
 
 //  Lists
-ul { list-style: none; 
-    }, ol {
+ul, ol {
     margin-left: $spacing-unit;
 }
 
