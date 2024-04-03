@@ -16,7 +16,7 @@ Thanks for visiting!
 
 ## Contact
 
-email: s.chafik at ucl.ac.uk <br>
+email: s.chafik [at] ucl.ac.uk <br>
 [UCL faculty webpage] <br>
 [Google Scholar] 
 
