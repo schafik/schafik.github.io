@@ -71,19 +71,18 @@ permalink: /research/
 
 ## In Progress
 
-  **Less is More: Cases of sacred craft from West Africa**<br />
+  **Less is More: Organizational arrangements and purpose in traditional enterprises **<br />
   (with Esther Salvi)<br />
-  Submitted to *Academy of Management Discoveries*<br />
+  Target: *Academy of Management Discoveries*<br />
 
   **Robustness in the Sacred Commons: A critical appreciation of Ostrom**<br />
   (with Christos Giotitsas and Alex Pazaitis)<br />
   Target: *Journal of Business Ethics*<br />
 
-  **Towards a responsible innovation policy**<br />
+  **Towards a responsible, sacred innovation policy**<br />
   Target: *Organization Studies*<br />
 
-  **Leadership and management of indigenous cooperative institutions: A synthesis of cases from the Islamic context**<br />
-  (with Rainer Kattel)<br />
+  **Leadership and management of indigenous organizations**<br />
   Target: *Academy of Management Review*
 
 
