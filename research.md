@@ -71,7 +71,7 @@ permalink: /research/
 
 ## In Progress
 
-  **Less is More: Organizational arrangements and purpose in traditional enterprises **<br />
+  **Less is More: Organizational arrangements and purpose in traditional enterprises**<br />
   (with Esther Salvi)<br />
   Target: *Academy of Management Discoveries*<br />
 
