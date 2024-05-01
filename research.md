@@ -73,7 +73,6 @@ permalink: /research/
 
   **Less is More: Organizational arrangements and purpose in traditional enterprises**<br />
   (with Esther Salvi)<br />
-  Target: *Academy of Management Discoveries*<br />
 
   **Robustness in the Sacred Commons: A critical appreciation of Ostrom**<br />
   (with Christos Giotitsas and Alex Pazaitis)<br />
@@ -81,9 +80,6 @@ permalink: /research/
 
   **Towards a responsible, sacred innovation policy**<br />
   Target: *Organization Studies*<br />
-
-  **Leadership and management of indigenous organizations**<br />
-  Target: *Academy of Management Review*
 
 
 
